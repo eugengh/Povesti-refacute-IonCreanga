@@ -1,0 +1,50 @@
+body{
+    background-color: #ffddd3;
+}
+.main{
+    margin-top:100px ;
+    margin-left:50px;
+    margin-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.poza{
+    width: 350px;
+    float:left;
+    padding-right: 100px;
+}
+.poza img{
+    width: 100%;
+}
+.poza h3{
+    text-align: justify;
+}
+a:hover{
+    background-color: #ffddd3;
+}
+.poezii{
+    display: inline;
+}
+.titlu h2{
+    margin-bottom:-5;
+}
+.textul{
+    text-align: justify;
+    font-size: 18px ;
+}
+.textul img{
+    width: 35%;
+    float:left;
+}
+.img-thumbnail{
+    margin-right: 20px;
+}
+.list-group{
+    width: 350px;
+}
+.goup{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 40px;
+    right: 50px;
+}
